@@ -1,0 +1,20 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "hirebot",
+  "desc": "testing LUIS ability to process reverse questions",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": []
+}
